@@ -2,10 +2,6 @@
 
 ## Open tabs from the previous session
 
-**License** MIT
-
-**Author** senol41tr (https://ssarigul.tr)
-
 **Tested on** CS 5.1 and CC 2026 (27.10.0) for Windows
 
 
